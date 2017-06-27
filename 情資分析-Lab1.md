@@ -31,6 +31,6 @@ We use `ELK`(**E**lasticsearch, **L**ogstash, **K**ibana) to collect tweets on T
 
 > run Elasticsearch, Logstash ,Kibana
 
-![螢幕快照 2017-06-27 16.45.19](../螢幕快照 2017-06-27 16.45.19.png)
+<img width="1280" alt="2017-06-27 16 45 19" src="https://user-images.githubusercontent.com/19222283/27580426-1a1f9dc8-5b5d-11e7-8926-01abbe2139a1.png">
 
-![螢幕快照 2017-06-27 16.47.32](../螢幕快照 2017-06-27 16.47.32.png)
+<img width="1280" alt="2017-06-27 16 47 32" src="https://user-images.githubusercontent.com/19222283/27580428-1e1de790-5b5d-11e7-9df3-bd7d8cc49bf6.png">
