@@ -1,6 +1,6 @@
 # 2017/07/05 情資分析
 
-### Lab1：Data collection
+### Lab1：data collection
 
 We use `ELK`(**E**lasticsearch, **L**ogstash, **K**ibana) to collect tweets on Twitter about information security issues.
 
@@ -37,21 +37,16 @@ We use `ELK`(**E**lasticsearch, **L**ogstash, **K**ibana) to collect tweets on T
 
 
 
-> ##### Raw data
+> ##### Raw data（ELK + Crawler）
+>
+> - Twitter
+> - [National Vulnerability Database (NVD)](https://www.nist.gov/programs-projects/national-vulnerability-database-nvd)
+>   - CVSS V2
+>   - CVSS V3
+> - [VulDB](https://vuldb.com/es/)
+>   - 0day price
+> - [CVEdetails](www.cvedetails.com/)
+>   - vendor
+>   - product
 
-| text |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-
+##### 
