@@ -48,5 +48,6 @@ We use `ELK`(**E**lasticsearch, **L**ogstash, **K**ibana) to collect tweets on T
 > - [CVEdetails](www.cvedetails.com/)
 >   - vendor
 >   - product
+> - keywords
 
 ##### 
