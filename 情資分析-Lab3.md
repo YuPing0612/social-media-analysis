@@ -6,6 +6,8 @@ We use jupyter notebook to visualize the data.
 
 The package we use is pandas, bokeh.
 
+
+
 > ##### install jupyter notebook
 
 - mac/windows：
@@ -29,4 +31,6 @@ The package we use is pandas, bokeh.
   ```
   docker run -p 8888:8888 -d -it  jupyter:latest
   ```
+
+> ##### use dataset.csv to do some analysis.
 
