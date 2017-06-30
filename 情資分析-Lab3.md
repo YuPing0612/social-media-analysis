@@ -36,5 +36,5 @@ vendor：[CVE_vendor_plot.ipynb](https://github.com/YuPing0612/social-media-anal
 
 CVE disclosure and discussion on Twitter：[CVE_disclosure_and_discussion_on_Twitter_each_month.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/CVE_disclosure_and_discussion_on_Twitter_each_month.ipynb)
 
-Twitter tweets word [cloud：Twitter_tweets_word_cloud_plot.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/Twitter_tweets_word_cloud_plot.ipynb)
+Twitter tweets word cloud：[Twitter_tweets_word_cloud_plot.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/Twitter_tweets_word_cloud_plot.ipynb)
 
