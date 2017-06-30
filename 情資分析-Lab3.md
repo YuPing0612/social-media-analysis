@@ -10,27 +10,34 @@ The package we use is pandas, bokeh.
 
 > ##### install jupyter notebook
 
-- mac/windows：
+#### mac/windows
 
-  (Use `pip` if using legacy Python 2.)
+(Use `pip` if using legacy Python 2.)
 
-  ```
-  pip3 install jupyter
-  ```
+```
+pip3 install jupyter
+```
 
-  ```
-  jupyter notebook  
-  ```
+```
+jupyter notebook  
+```
 
-- docker：
+#### docker
 
-  ```
-  docker pull jupyter:latest
-  ```
+To build image by Dockerfile
 
-  ```
-  docker run -p 8888:8888 -d -it  jupyter:latest
-  ```
+```
+docker build -t jupyter:latest .
+```
+
+To run the container
+
+```
+docker run -p 8888:8888 -d -it  jupyter:latest  /bin/bash  -c "/opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888"
+```
+
+
 
 > ##### use dataset.csv to do some analysis.
 
+vendor：jupyter aaa.iynb
