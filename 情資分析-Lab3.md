@@ -4,7 +4,7 @@
 
 We use jupyter notebook to visualize the data.
 
-The package we use is pandas, bokeh, date time, .
+The package we use is pandas, bokeh, matplotlib, date time, .
 
 
 
@@ -33,4 +33,6 @@ launch jupyter notebook
 > ##### use data.xlsx to do some analysis.
 
 vendor：[CVE_vendor_plot.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/CVE_vendor_plot.ipynb)
+
+CVE disclosure and discussion on Twitter：[CVE_disclosure_and_discussion_on_Twitter_each_month.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/CVE_disclosure_and_discussion_on_Twitter_each_month.ipynb)
 
