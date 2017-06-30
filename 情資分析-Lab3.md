@@ -4,7 +4,7 @@
 
 We use jupyter notebook to visualize the data.
 
-The package we use is pandas, bokeh.
+The package we use is pandas, bokeh, date time, .
 
 
 
@@ -22,22 +22,15 @@ pip3 install jupyter
 jupyter notebook  
 ```
 
-#### docker
+#### anaconda
 
-To build image by Dockerfile
+download and install  [anaconda](https://www.continuum.io/downloads)
 
-```
-docker build -t jupyter:latest .
-```
-
-To run the container
-
-```
-docker run -p 8888:8888 -d -it  jupyter:latest  /bin/bash  -c "/opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888"
-```
+launch jupyter notebook
 
 
 
-> ##### use dataset.csv to do some analysis.
+> ##### use data.xlsx to do some analysis.
 
-vendor：jupyter aaa.iynb
+vendor：[CVE_vendor_plot.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/CVE_vendor_plot.ipynb)
+
