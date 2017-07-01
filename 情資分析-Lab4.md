@@ -2,9 +2,9 @@
 
 ### Lab3：predict exploit
 
-We use our CVE discussions on Twitter to predict the exploit.
+We use our CVE discussions on Twitter to predict the exploit of vulnerabilities.
 
-The package we use is scikit-learn.
+The package we use are scikit-learn, numpy, matplotlib.
 
 
 
