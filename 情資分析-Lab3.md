@@ -4,7 +4,7 @@
 
 We use jupyter notebook to visualize the data.
 
-The package we use is pandas, bokeh, matplotlib, date time, .
+The package we use are pandas, bokeh, matplotlib, date time, .
 
 
 

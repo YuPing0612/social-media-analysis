@@ -1,6 +1,6 @@
 # 2017/07/05 情資分析
 
-### Lab3：predict exploit
+### Lab4：predict exploit
 
 We use our CVE discussions on Twitter to predict the exploit of vulnerabilities.
 
@@ -32,5 +32,7 @@ launch jupyter notebook
 
 > ##### use dataset.csv to predict
 
-SVM：
+SVM：[predict_exploit.ipynb](https://github.com/YuPing0612/social-media-analysis/blob/master/notebooks/predict_exploit.ipynb)
+
+
 
